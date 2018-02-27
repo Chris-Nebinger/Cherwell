@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nebinger", "Nebinger\Nebinger.csproj", "{68BB1BAE-1708-4657-A49A-866BA9D804EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nebinger.Tests", "Nebinger.Tests\Nebinger.Tests.csproj", "{F7311444-3997-47EB-9BBE-9DB7C5BAA6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles", "Triangles\Triangles.csproj", "{1A6666D7-5929-4436-A6DC-269ECED3BDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BB1BAE-1708-4657-A49A-866BA9D804EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB1BAE-1708-4657-A49A-866BA9D804EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB1BAE-1708-4657-A49A-866BA9D804EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB1BAE-1708-4657-A49A-866BA9D804EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7311444-3997-47EB-9BBE-9DB7C5BAA6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7311444-3997-47EB-9BBE-9DB7C5BAA6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7311444-3997-47EB-9BBE-9DB7C5BAA6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7311444-3997-47EB-9BBE-9DB7C5BAA6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6666D7-5929-4436-A6DC-269ECED3BDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6666D7-5929-4436-A6DC-269ECED3BDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6666D7-5929-4436-A6DC-269ECED3BDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6666D7-5929-4436-A6DC-269ECED3BDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9B5467-A06F-4F74-834B-28E3F323810E}
+	EndGlobalSection
+EndGlobal
